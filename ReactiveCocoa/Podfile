@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+target 'ReactiveCocoa' do
+  pod 'ReactiveCocoa', '~> 5.0.0'
+end
+
