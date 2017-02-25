@@ -1,6 +1,6 @@
 # usage-of-ReactiveCocoa
 the usage of ReactiveCocoa
-参考：http://blog.csdn.net/u010958446
+参考：http://blog.csdn.net/u010958446/article/details/57075434
 
 1.ReactiveCocoa简介
 
